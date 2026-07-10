@@ -1,9 +1,9 @@
 
 # INIT SETTINGS
 
-NAME = TESTPRGM
+NAME = TISHELL
 ICON = icon.png
-DESCRIPTION = "this test prgm"
+DESCRIPTION = "shell for TI84 PLUS CE"
 
 COMPRESSED = YES # for compressing big code
 COMPRESSED_MODE = zx7 # zx0 for better results but longer time

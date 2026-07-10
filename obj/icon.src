@@ -5,5 +5,5 @@
 
 	public ___description
 ___description:
-	db	"this test prgm", 0
+	db	"shell for TI84 PLUS CE", 0
 ___prgm_init:
